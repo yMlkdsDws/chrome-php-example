@@ -1,0 +1,17 @@
+{
+    "name": "iimasamitsu/php-chrome-example",
+    "autoload": {
+        "psr-4": {
+            "Iimasamitsu\\PhpChromeExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ii masamitsu",
+            "email": "ii@entap.co.jp"
+        }
+    ],
+    "require": {
+        "chrome-php/chrome": "^1.1"
+    }
+}
